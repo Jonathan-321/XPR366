@@ -12,6 +12,7 @@ A company called Arrival3D creating a sort of digital twin using laser scanning 
 # Taking Xpr366 to the Next Level
 
 ## Core Vision Enhancement
+
 Moving from simple sensor monitoring to a comprehensive infrastructure health system.
 
 ### 1. Advanced Sensor Integration
@@ -210,11 +211,5 @@ Let me summarize where we are and what we're building:
 3. Add more sensor types
 4. Implement real-time alerts
 
-Would you like to focus on any of these aspects specifically? We can:
-1. Continue implementing the analytics system
-2. Enhance the frontend visualization
-3. Add more sensor types and their specific analysis
-4. Work on the alerting system
 
-Let me know which direction you'd like to explore!
 
