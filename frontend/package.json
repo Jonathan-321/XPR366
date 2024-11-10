@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "axios": "^1.7.7",
+    "lucide-react": "^0.456.0",
+    "recharts": "^2.13.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  }
+}
